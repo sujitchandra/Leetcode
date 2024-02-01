@@ -8,4 +8,6 @@ public:
         }
         nums = ans;
     }
+    //just use formula and done...
 };
+
