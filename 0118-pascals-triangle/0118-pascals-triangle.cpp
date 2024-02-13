@@ -1,17 +1,23 @@
 class Solution {
 public:
+    vector<int> generaterow(int row){
+    long long ans = 1;
+    vector<int>rowans;
+    rowans.push_back(1);
+    for(int col=1; col<row; col++){
+        ans = ans*(row-col);
+        ans = ans/col;
+        rowans.push_back(ans);
+    }
+    return rowans;
+}
     vector<vector<int>> generate(int numRows) {
-    std::vector<std::vector<int>> triangle;
-        
-        for (int i = 0; i < numRows; ++i) {
-            std::vector<int> row(i + 1, 1); // Initialize each row with 1s
-            for (int j = 1; j < i; ++j) {
-                row[j] = triangle[i - 1][j - 1] + triangle[i - 1][j]; // Calculate each value based on the values from the previous row
-            }
-            triangle.push_back(row); // Add the row to the triangle
+        vector<vector<int>> ans;
+        for(int i=0; i<numRows; i++){
+            ans.push_back(generaterow(i+1));
         }
+        return ans;
         
-        return triangle;
     }    
     
 };
