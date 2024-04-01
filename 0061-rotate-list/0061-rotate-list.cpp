@@ -21,8 +21,12 @@ public:
     return head;
 }
 
-ListNode* rotateLL(ListNode* head, int k){
-    if(head == NULL || k == 0) return head;
+// ListNode* rotateLL(ListNode* head, int k){
+  
+// }
+
+    ListNode* rotateRight(ListNode* head, int k) {
+        if(head == NULL || k == 0) return head;
     ListNode* tail = head;
     int len = 1;
     while(tail->next != NULL){
@@ -39,9 +43,5 @@ ListNode* rotateLL(ListNode* head, int k){
     newTailNode->next = NULL;
 
     return head;
-}
-
-    ListNode* rotateRight(ListNode* head, int k) {
-        return rotateLL(head, k);
  }
 };
