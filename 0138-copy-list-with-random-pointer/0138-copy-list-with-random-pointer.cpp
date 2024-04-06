@@ -16,55 +16,99 @@ public:
 
 class Solution {
 public:
-   void insert(Node * &head, Node* &tail , int data){
-        Node * newNode = new Node(data);
-        if(head == NULL){
-            head = newNode;
-            tail = newNode;
+    void insertCopyInBetween(Node *head){
+
+        Node* temp = head;
+
+        while(temp !=NULL){
+
+            Node* nextElement = temp->next;
+
+            Node* copy = new Node(temp->val);
+
+ 
+
+            copy->next = nextElement; 
+
+            temp -> next = copy;
+
+ 
+
+            temp = nextElement;
+
         }
-        else{
-            tail->next = newNode;
-            tail = newNode;
-        }
+
     }
 
-    Node* copyRandomList(Node* head) {
-        unordered_map<Node* , Node *> m;
-        Node * original = head, *cloneHead = NULL, *cloneTail = NULL;
+ 
 
-        // step 1 - copy all next pointers
-        while(original != NULL){
-            insert(cloneHead,cloneTail,original->val);
-            original = original -> next;
+    void connectRandomPointers(Node *head){
+
+        Node* temp = head;
+
+        while(temp !=NULL){
+
+            Node * copyNode = temp->next;
+
+ 
+
+            if(temp-> random){
+
+                copyNode-> random = temp -> random -> next;
+
+            }else {
+
+                copyNode -> random = nullptr;
+
+            }
+
+            temp = temp->next->next;
+
         }
 
-        original = head;
-        Node * temp = cloneHead;
+    }
 
-        // Step 2 -  Now to copy random pointers
+ 
 
-        // store in map original node to clones nodes
-        while(original != NULL){
-            m[original] = temp;
-            original = original -> next;
+    Node* getDeepCopyList(Node *head){
+
+        Node* temp = head;
+
+        Node* dummyNode = new Node (-1);
+
+        Node* res = dummyNode;
+
+ 
+
+        while(temp !=NULL){
+
+            res->next = temp-> next;
+
+            res = res->next; // traversing
+
+ 
+
+            temp -> next = temp -> next -> next; // disconnecting 
+
             temp = temp -> next;
+
         }
 
-        original = head;
-        temp = cloneHead;
+        return dummyNode->next;
 
-        // now temp -> random = m[original->random];
-        while(temp != NULL){
-            temp -> random = m[original->random];
-            temp = temp -> next;
-            original = original -> next;
-        }
+    }
 
+ 
 
+Node *copyRandomList(Node *head){
 
+    // Write your code here
 
+    insertCopyInBetween(head);
 
-        return cloneHead;
+        connectRandomPointers(head);
+
+        return getDeepCopyList(head);
 
     }
 };
