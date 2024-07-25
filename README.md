@@ -12,6 +12,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sujitchandra/Leetcode/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/sujitchandra/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -52,4 +53,16 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sujitchandra/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sujitchandra/Leetcode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sujitchandra/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sujitchandra/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
