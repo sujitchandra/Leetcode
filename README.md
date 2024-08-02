@@ -8,6 +8,7 @@
 | [0239-sliding-window-maximum](https://github.com/sujitchandra/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/sujitchandra/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sujitchandra/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/sujitchandra/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/sujitchandra/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@
 | [0042-trapping-rain-water](https://github.com/sujitchandra/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sujitchandra/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sujitchandra/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/sujitchandra/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/sujitchandra/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
@@ -69,4 +71,8 @@
 | ------- |
 | [0146-lru-cache](https://github.com/sujitchandra/Leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/sujitchandra/Leetcode/tree/master/0460-lfu-cache) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/sujitchandra/Leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
