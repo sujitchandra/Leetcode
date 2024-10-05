@@ -19,6 +19,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujitchandra/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/sujitchandra/Leetcode/tree/master/0146-lru-cache) |
+| [0424-longest-repeating-character-replacement](https://github.com/sujitchandra/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/sujitchandra/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/sujitchandra/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Stack
@@ -65,6 +66,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujitchandra/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/sujitchandra/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/sujitchandra/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujitchandra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -99,6 +101,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujitchandra/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/sujitchandra/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/sujitchandra/Leetcode/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/sujitchandra/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Greedy
 |  |
 | ------- |
