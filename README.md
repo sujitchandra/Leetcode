@@ -12,6 +12,7 @@
 | [0496-next-greater-element-i](https://github.com/sujitchandra/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sujitchandra/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sujitchandra/Leetcode/tree/master/0735-asteroid-collision) |
+| [0890-lemonade-change](https://github.com/sujitchandra/Leetcode/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/sujitchandra/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/sujitchandra/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sujitchandra/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/sujitchandra/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/sujitchandra/Leetcode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/sujitchandra/Leetcode/tree/master/0890-lemonade-change) |
 ## Matrix
 |  |
 | ------- |
