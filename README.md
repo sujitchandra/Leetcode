@@ -28,6 +28,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/sujitchandra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujitchandra/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sujitchandra/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2107-find-unique-binary-string](https://github.com/sujitchandra/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/sujitchandra/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sujitchandra/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sujitchandra/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sujitchandra/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2107-find-unique-binary-string](https://github.com/sujitchandra/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sujitchandra/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/sujitchandra/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sujitchandra/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2107-find-unique-binary-string](https://github.com/sujitchandra/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Greedy
 |  |
 | ------- |
@@ -325,4 +328,5 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/sujitchandra/Leetcode/tree/master/0037-sudoku-solver) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sujitchandra/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2107-find-unique-binary-string](https://github.com/sujitchandra/Leetcode/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
