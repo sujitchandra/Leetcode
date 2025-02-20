@@ -151,6 +151,7 @@
 | [0402-remove-k-digits](https://github.com/sujitchandra/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/sujitchandra/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/sujitchandra/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sujitchandra/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Greedy
 |  |
 | ------- |
@@ -323,4 +324,5 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sujitchandra/Leetcode/tree/master/0037-sudoku-solver) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sujitchandra/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 <!---LeetCode Topics End-->
