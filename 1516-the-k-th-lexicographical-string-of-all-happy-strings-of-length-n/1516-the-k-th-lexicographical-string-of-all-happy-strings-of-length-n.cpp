@@ -1,30 +1,35 @@
 class Solution {
 public:
-    void helper(int n, int k, string s, vector<string>&ans)
+int cnt = 0;
+    bool helper(int n, int k, string &s)
     {
         if(s.length() == n) {
-            ans.push_back(s);
-            return;
+            // ans.push_back(s);
+            cnt++;
+            if(cnt == k) return true;
+            return false;
         }
-        vector<char> ch = {'a','b','c'};
-        for(int i=0; i<3; i++){
-            if(s.length() == 0 || s.back() != ch[i] )
+        // vector<char> ch = {'a','b','c'};
+        for(char i='a'; i<= 'c'; i++){
+            if(s.length() == 0 || s.back() != i)
             {
-                s.push_back(ch[i]);
-                helper(n,k,s,ans);
+                s.push_back(i);
+               if( helper(n,k,s)) return true;
                 s.pop_back();
             }
         }
+        return false;
     }
     string getHappyString(int n, int k) {
         
-        vector<string> ans;
+        // vector<string> ans;
         string s;
-        helper(n,k,s,ans);
-        if(k <= ans.size())
-        return ans[k-1];
-        else
-        return "";
+        helper(n,k,s);
+        // if(k <= ans.size())
+        // return ans[k-1];
+        // else
+        // return "";
+        return s;
 
     }
 };
