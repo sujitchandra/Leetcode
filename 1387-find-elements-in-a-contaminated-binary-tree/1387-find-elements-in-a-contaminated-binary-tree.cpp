@@ -12,25 +12,20 @@
 class FindElements {
 public:
     unordered_set<int>st;
-    void helper(TreeNode* root){
-        if(!root) return;
-        if(root->left){
-            root->left->val = 2*root->val +1;
-            st.insert(root->left->val);
-            helper(root->left);
-        }
+    void helper(TreeNode* root, int nodeval){
 
-        if(root->right){
-            root->right->val = 2*root->val +2;
-            st.insert(root->right->val);
-            helper(root->right);
-        }
+        if(!root) return;
+        root->val = nodeval;
+        st.insert(root->val);
+        helper(root->left, nodeval *2 + 1);
+        helper(root->right, nodeval *2 + 2);
+    
     }
 
     FindElements(TreeNode* root) {
-        root->val = 0;
-        st.insert(root->val);
-        helper(root);
+        // root->val = 0;
+        // st.insert(root->val);
+        helper(root, 0);
     }
     
     bool find(int target) {
