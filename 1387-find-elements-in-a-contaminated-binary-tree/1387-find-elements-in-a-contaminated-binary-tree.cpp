@@ -17,8 +17,8 @@ public:
         if(!root) return;
         root->val = nodeval;
         st.insert(root->val);
-        helper(root->left, nodeval *2 + 1);
-        helper(root->right, nodeval *2 + 2);
+        if(root->left)  helper(root->left, nodeval *2 + 1);
+        if(root->right) helper(root->right, nodeval *2 + 2);
     
     }
 
