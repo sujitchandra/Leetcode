@@ -11,12 +11,15 @@
  */
 class Solution {
 public:
-    TreeNode* helper(vector<int>&preorder, vector<int>&postorder, unordered_map<int, int> &post, int &preorderindex, int start, int end)
+    TreeNode* helper(vector<int>&preorder, vector<int>&postorder, unordered_map<int, int> &post, 
+    int &preorderindex, int start, int end)
     {
         if(start > end) return nullptr;
 
         TreeNode* root = new TreeNode (preorder[preorderindex]);
         preorderindex++;
+
+        if (!root) return nullptr;
         if(start == end) return root;
 
 
@@ -40,3 +43,4 @@ public:
         return root;
     }
 };
+// TC=> O(N), SC=> O(N)
