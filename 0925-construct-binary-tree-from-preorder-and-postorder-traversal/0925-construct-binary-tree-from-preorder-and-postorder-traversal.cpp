@@ -19,7 +19,7 @@ public:
         TreeNode* root = new TreeNode (preorder[preorderindex]);
         preorderindex++;
 
-        if (!root) return nullptr;
+        // if (!root) return nullptr;
         if(start == end) return root;
 
 
