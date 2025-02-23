@@ -39,8 +39,7 @@ public:
         for(int i=0; i<n; i++){
             post[postorder[i]] = i;
         }
-        TreeNode* root = helper(preorder, postorder, post, preorderindex, 0 , n-1);
-        return root;
+         return helper(preorder, postorder, post, preorderindex, 0 , n-1);
     }
 };
 // TC=> O(N), SC=> O(N)
