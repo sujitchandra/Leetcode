@@ -12,21 +12,22 @@
 class Solution {
 public:
     TreeNode* helper(vector<int>&preorder, vector<int>&postorder, unordered_map<int, int> &post, 
-    int preorderindex, int start, int end)
+    int &preorderindex, int start, int end)
     {
         if(start > end) return nullptr;
 
         TreeNode* root = new TreeNode (preorder[preorderindex]);
-
-        // if (!root) return nullptr;
-        if(start == end) return root;
         preorderindex++;
 
+    //  if (!root) return nullptr;
+        if(start == end) return root;
+
+
         int last = post[preorder[preorderindex]];
-        
+        if(last <= end){
         root->left = helper(preorder, postorder, post, preorderindex, start , last);
-        root->right = helper(preorder, postorder,post, preorderindex + last - start + 1 , last + 1, end-1);
-    
+        root->right = helper(preorder, postorder,post, preorderindex, last + 1, end-1);
+        }
 
         return root;
     }
