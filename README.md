@@ -28,6 +28,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/sujitchandra/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujitchandra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujitchandra/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sujitchandra/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sujitchandra/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/sujitchandra/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/sujitchandra/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -103,6 +104,7 @@
 | [0435-non-overlapping-intervals](https://github.com/sujitchandra/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/sujitchandra/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/sujitchandra/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sujitchandra/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Queue
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/sujitchandra/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujitchandra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sujitchandra/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Counting
 |  |
 | ------- |
@@ -359,4 +362,8 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/sujitchandra/Leetcode/tree/master/0547-number-of-provinces) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sujitchandra/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+## Math
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sujitchandra/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
