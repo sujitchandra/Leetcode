@@ -29,6 +29,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/sujitchandra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujitchandra/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sujitchandra/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sujitchandra/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sujitchandra/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/sujitchandra/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/sujitchandra/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -105,6 +106,7 @@
 | [0678-valid-parenthesis-string](https://github.com/sujitchandra/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/sujitchandra/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sujitchandra/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sujitchandra/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Queue
 |  |
 | ------- |
