@@ -7,6 +7,7 @@ public:
         if(i >= n || j >= m) return 0;
 
         if(dp[i][j] != -1 ) return dp[i][j];
+
         if(text1[i] == text2[j]){
           return dp[i][j] =  (1 + helper(i+1, j+1, text1, text2, dp));
         }  
@@ -19,6 +20,7 @@ public:
     int longestCommonSubsequence(string text1, string text2) {
          int n = text1.size();
          int m = text2.size();
+         
         vector<vector<int>> dp;
         dp.assign(n, vector<int>(m,-1));
 
