@@ -20,6 +20,7 @@
 | [0455-assign-cookies](https://github.com/sujitchandra/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sujitchandra/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sujitchandra/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/sujitchandra/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sujitchandra/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/sujitchandra/Leetcode/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/sujitchandra/Leetcode/tree/master/0890-lemonade-change) |
@@ -107,6 +108,7 @@
 | [0085-maximal-rectangle](https://github.com/sujitchandra/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sujitchandra/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sujitchandra/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/sujitchandra/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/sujitchandra/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sujitchandra/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/sujitchandra/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -187,6 +189,7 @@
 | [0036-valid-sudoku](https://github.com/sujitchandra/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sujitchandra/Leetcode/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/sujitchandra/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0542-01-matrix](https://github.com/sujitchandra/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sujitchandra/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sujitchandra/Leetcode/tree/master/1036-rotting-oranges) |
 ## Binary Search
@@ -323,6 +326,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/sujitchandra/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sujitchandra/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sujitchandra/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/sujitchandra/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sujitchandra/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sujitchandra/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sujitchandra/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
