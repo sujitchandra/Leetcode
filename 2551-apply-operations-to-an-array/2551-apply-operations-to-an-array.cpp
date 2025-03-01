@@ -9,10 +9,11 @@ public:
                 nums[i + 1] = 0;
             }
         }
-        int nonzero = 0;
+        int zeroidx = 0;
         for(int i=0; i<n; i++){
             if(nums[i] !=0 ){
-                swap(nums[i] , nums[nonzero++]);
+                swap(nums[i] , nums[zeroidx]);
+                zeroidx++;
             }
         }
         return nums;
