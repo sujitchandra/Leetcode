@@ -39,6 +39,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sujitchandra/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/sujitchandra/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/sujitchandra/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2551-apply-operations-to-an-array](https://github.com/sujitchandra/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sujitchandra/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@
 | [0042-trapping-rain-water](https://github.com/sujitchandra/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/sujitchandra/Leetcode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sujitchandra/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2551-apply-operations-to-an-array](https://github.com/sujitchandra/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/sujitchandra/Leetcode/tree/master/0735-asteroid-collision) |
+| [2551-apply-operations-to-an-array](https://github.com/sujitchandra/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
