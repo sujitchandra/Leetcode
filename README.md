@@ -293,6 +293,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/sujitchandra/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/sujitchandra/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/sujitchandra/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/sujitchandra/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sujitchandra/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/sujitchandra/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sujitchandra/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -355,6 +356,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/sujitchandra/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/sujitchandra/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/sujitchandra/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/sujitchandra/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sujitchandra/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/sujitchandra/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sujitchandra/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -408,6 +410,7 @@
 | [0210-course-schedule-ii](https://github.com/sujitchandra/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sujitchandra/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/sujitchandra/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/sujitchandra/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sujitchandra/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Math
 |  |
@@ -418,4 +421,5 @@
 | ------- |
 | [0207-course-schedule](https://github.com/sujitchandra/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sujitchandra/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/sujitchandra/Leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
