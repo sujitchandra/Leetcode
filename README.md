@@ -34,6 +34,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/sujitchandra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujitchandra/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/sujitchandra/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/sujitchandra/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sujitchandra/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sujitchandra/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sujitchandra/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -209,6 +210,7 @@
 | [0733-flood-fill](https://github.com/sujitchandra/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sujitchandra/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sujitchandra/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/sujitchandra/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -363,6 +365,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sujitchandra/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/sujitchandra/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sujitchandra/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/sujitchandra/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sujitchandra/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sujitchandra/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sujitchandra/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
