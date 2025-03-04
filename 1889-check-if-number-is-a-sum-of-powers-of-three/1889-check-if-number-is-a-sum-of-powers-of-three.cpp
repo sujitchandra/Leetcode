@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool checkPowersOfThree(int n) {
-        int rem = 0;
+        int rem ;
         while(n > 0)
         {
             rem = n % 3;
