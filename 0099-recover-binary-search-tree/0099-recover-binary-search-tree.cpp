@@ -12,18 +12,20 @@
 class Solution {
     TreeNode* first, *last, *prev;
 public:
+    // morris algorithm..
     void inorder(TreeNode* root){
         if(root==NULL) return;
-        inorder(root->left);
-        if(prev!=NULL && (root->val<prev->val)){
+        inorder(root->left); 
+        if(prev!=NULL && (root->val < prev->val)){
+
             if(first==NULL){
-                first=prev;
-                last=root; 
+                first = prev;
+                last = root; 
             }
             else
-                last=root;
+                last = root;
         }
-        prev=root;
+        prev = root;
         inorder(root->right);
     }
     void recoverTree(TreeNode* root) {
