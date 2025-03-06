@@ -39,6 +39,7 @@
 | [1753-path-with-minimum-effort](https://github.com/sujitchandra/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sujitchandra/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sujitchandra/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/sujitchandra/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2107-find-unique-binary-string](https://github.com/sujitchandra/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/sujitchandra/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sujitchandra/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -128,6 +129,7 @@
 | [1250-longest-common-subsequence](https://github.com/sujitchandra/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sujitchandra/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sujitchandra/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/sujitchandra/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sujitchandra/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Queue
 |  |
