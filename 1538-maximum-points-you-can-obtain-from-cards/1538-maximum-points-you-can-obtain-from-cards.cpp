@@ -12,13 +12,14 @@ public:
         int maximum = total;
 
         for(int i = k-1; i >= 0; i--){
-
-            total -=  cardPoints[i];
-            rightsum += cardPoints[right];
-            maxtotal = total + rightsum;
+         total = total - cardPoints[i] + cardPoints[right];
+            // total -=  cardPoints[i];
+            // rightsum += cardPoints[right];
+            // maxtotal = total + rightsum;
             right--;
-            maximum = max(maximum , maxtotal);
+            maximum = max(maximum , total);
         }
         return maximum;
     }
 };
+
