@@ -3,12 +3,12 @@ public:
     int minimumRecolors(string blocks, int k) {
         int n = blocks.size();
         int totalwhite = 0;
-        int mini = 0;
+        
         for(int i=0; i<k; i++){
             if(blocks[i] =='W') totalwhite++;
         }
 
-        mini = totalwhite;
+        int mini = totalwhite;
 
         for(int i=k; i<n; i++){
 
