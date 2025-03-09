@@ -48,6 +48,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/sujitchandra/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sujitchandra/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/sujitchandra/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3463-alternating-groups-i](https://github.com/sujitchandra/Leetcode/tree/master/3463-alternating-groups-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujitchandra/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sujitchandra/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sujitchandra/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3463-alternating-groups-i](https://github.com/sujitchandra/Leetcode/tree/master/3463-alternating-groups-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
