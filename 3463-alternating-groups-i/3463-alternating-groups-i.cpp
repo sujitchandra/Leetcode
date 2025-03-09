@@ -8,7 +8,9 @@ public:
         for(int i=1; i<n; i++){
             if(colors[(i-1)] != colors[i] && colors[(i+1)%n] != colors[i]) cnt++;
         }
-
+        // for(int i=0; i<=10; i++ ){
+        //     cout << colors[i];
+        // }
         return cnt;
     }
 };
