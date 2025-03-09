@@ -12,7 +12,8 @@ public:
                 validcnt = 1;
             }
 
-            if(validcnt >= k) cnt++;
+            // if(validcnt >= k) cnt++;
+            cnt +=  validcnt >= k;
 
         }
         
