@@ -6,22 +6,22 @@ public:
         if(n < 5 ) return 0;
 
          int cnt = 0;
-        vector<char>ans(n);
-        unordered_map<char,int> vowel;
+        // vector<char>ans(n);
+        // unordered_map<char,int> vowel;
        
 
-        for(int i=0; i<n; i++){
-            vowel[word[i]]++;
-        }
+        // for(int i=0; i<n; i++){
+        //     vowel[word[i]]++;
+        // }
 
-        for(int i=0; i<n; i++){
+        // for(int i=0; i<n; i++){
 
-            if(vowel.find('a') == vowel.end() && vowel.find('e') == vowel.end() &&
-            vowel.find('i') == vowel.end() && vowel.find('o') == vowel.end() &&
-            vowel.find('u') == vowel.end()){
-                return 0;
-            }
-        }
+        //     if(vowel.find('a') == vowel.end() && vowel.find('e') == vowel.end() &&
+        //     vowel.find('i') == vowel.end() && vowel.find('o') == vowel.end() &&
+        //     vowel.find('u') == vowel.end()){
+        //         return 0;
+        //     }
+        // }
 
         for(int j=0; j<n; j++){
              bool isvowel[26] = {false};
