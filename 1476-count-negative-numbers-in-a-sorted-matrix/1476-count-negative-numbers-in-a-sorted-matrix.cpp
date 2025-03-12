@@ -14,7 +14,6 @@ public:
                 else {
                     end  = mid - 1;
                 }
-
                 
             }
             cnt += n -st;
