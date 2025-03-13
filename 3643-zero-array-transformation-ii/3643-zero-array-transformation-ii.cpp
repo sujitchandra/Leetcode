@@ -9,7 +9,8 @@ public:
                 queryCount++;
                 if (queryCount > queries.size()) return -1;
 
-                int left = queries[queryCount - 1][0], right = queries[queryCount - 1][1], value = queries[queryCount - 1][2];
+                int left = queries[queryCount - 1][0], right = queries[queryCount - 1][1];
+                int value = queries[queryCount - 1][2];
                 if (right >= i) {
                     diffArray[max(left, i)] += value;
                     if (right + 1 < diffArray.size()) {
