@@ -52,6 +52,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/sujitchandra/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3463-alternating-groups-i](https://github.com/sujitchandra/Leetcode/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/sujitchandra/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3639-zero-array-transformation-i](https://github.com/sujitchandra/Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -264,6 +265,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/sujitchandra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujitchandra/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sujitchandra/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3639-zero-array-transformation-i](https://github.com/sujitchandra/Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Counting
 |  |
 | ------- |
