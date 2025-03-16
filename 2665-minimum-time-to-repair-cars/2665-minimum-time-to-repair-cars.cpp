@@ -10,7 +10,7 @@ public:
     }
     long long repairCars(vector<int>& ranks, int cars) { 
         long long left = 1;
-        long long right = 1e14;
+        long long right = *max_element(ranks.begin(), ranks.end()) * (long long) cars * cars;
         while(left < right){
             long long mid = left + (right - left) /2;
             if(helper(ranks , cars , mid)){
