@@ -15,13 +15,12 @@ public:
             else 
             b2 = b2 ^ nums[i];
             
-            
         }
          ans.push_back(b1);
          ans.push_back(b2);
-        if(ans[0] < ans[1]) {
-            swap(ans[0], ans[1]);
-        }
+        // if(ans[0] < ans[1]) {
+        //     swap(ans[0], ans[1]);
+        // }
          return ans;
     }
 };
