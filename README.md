@@ -41,6 +41,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sujitchandra/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujitchandra/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sujitchandra/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/sujitchandra/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/sujitchandra/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sujitchandra/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sujitchandra/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -83,6 +84,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sujitchandra/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sujitchandra/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sujitchandra/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/sujitchandra/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2107-find-unique-binary-string](https://github.com/sujitchandra/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/sujitchandra/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sujitchandra/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -291,6 +293,7 @@
 | [0435-non-overlapping-intervals](https://github.com/sujitchandra/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sujitchandra/Leetcode/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sujitchandra/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/sujitchandra/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Tree
 |  |
 | ------- |
