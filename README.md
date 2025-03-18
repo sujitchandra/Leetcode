@@ -50,6 +50,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/sujitchandra/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sujitchandra/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sujitchandra/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/sujitchandra/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/sujitchandra/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sujitchandra/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sujitchandra/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -172,6 +173,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujitchandra/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sujitchandra/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sujitchandra/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/sujitchandra/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3463-alternating-groups-i](https://github.com/sujitchandra/Leetcode/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/sujitchandra/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sujitchandra/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -444,6 +446,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/sujitchandra/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/sujitchandra/Leetcode/tree/master/0260-single-number-iii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sujitchandra/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/sujitchandra/Leetcode/tree/master/2478-longest-nice-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
