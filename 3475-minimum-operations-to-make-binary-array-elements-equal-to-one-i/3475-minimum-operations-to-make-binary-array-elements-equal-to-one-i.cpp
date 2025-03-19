@@ -11,9 +11,11 @@ public:
                 cnt++;
             }
         }
-        if(nums[n-1] == 0 || nums[n-2] == 0) {
-            return -1;
-        }
-        return cnt;
+        // if(nums[n-1] == 0 || nums[n-2] == 0) {
+        //     return -1;
+        // }
+        // return cnt;
+       return (nums[n-1] == 0 || nums[n-2] == 0) ?  -1 : cnt;
+
     }
 };
