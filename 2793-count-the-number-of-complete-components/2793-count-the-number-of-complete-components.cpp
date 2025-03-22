@@ -23,7 +23,7 @@ public:
             adj[it[0]].push_back(it[1]);
             adj[it[1]].push_back(it[0]);
         }
-        int ans=0;
+        int cnt=0;
         vector<bool> vis(n,false);
         for(int i=0;i<n;i++){
 
@@ -37,9 +37,9 @@ public:
                         break;
                     }
                 }
-                if(iscomp)ans++;
+                if(iscomp)cnt++;
             }
         }
-        return ans;
+        return cnt;
     }
 };
