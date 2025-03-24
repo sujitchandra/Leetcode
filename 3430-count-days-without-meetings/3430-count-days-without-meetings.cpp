@@ -1,21 +1,19 @@
 class Solution {
 public:
     int countDays(int days, vector<vector<int>>& meetings) {
-        int n = meetings.size();
-        int freeday = 0;
-        int prevday = 0;
-        sort(meetings.begin(), meetings.end());
-        for(auto meeting:meetings){
-            int start = meeting[0];
-            int end = meeting[1];
-            if(start > prevday){
-                freeday += start - prevday - 1;
-            }
-            prevday = max(prevday , end);
-       }
-
-       freeday +=  days - prevday ;
-       return freeday;
+        int i,n=meetings.size(),k=0;
+        vector<pair<int,int>>v;
+        for(i=0;i<n;i++){
+            v.push_back({meetings[i][0],meetings[i][1]});
+        }
+        sort(v.begin(),v.end());
+        int ans=0;
+        for(i=0;i<n;i++){
+            ans+=(max(0,v[i].first-k-1));
+            k = max(k,v[i].second);
+        }
+        ans+=(max(0,days-k));
+        return ans;
     }
 };
 
