@@ -26,6 +26,7 @@ public:
         int left_cnt = 0;
         for(int i=0; i<n-1; i++){
             if(nums[i] == major) left_cnt++;
+            
             int right_cnt = major_cnt - left_cnt;
             if(left_cnt * 2 > (i+1) && right_cnt *2 > (n-i-1)){
                 return i;
