@@ -20,6 +20,7 @@ public:
                 if (value >= val) break;
                 pq.pop();
                 count++; 
+                
                 if (i - 1 >= 0 && !vis[i - 1][j]) {
                     pq.push({grid[i - 1][j], i - 1, j});
                     vis[i - 1][j] = 1;
