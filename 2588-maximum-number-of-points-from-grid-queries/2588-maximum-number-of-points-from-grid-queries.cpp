@@ -10,7 +10,8 @@ public:
         sort(v.begin(), v.end()); 
         vector<int> ans(x); 
         vector<vector<int>> vis(n, vector<int>(m, 0)); 
-        priority_queue<tuple<int, int, int>, vector<tuple<int, int, int>>, greater<tuple<int, int, int>>> pq; 
+        priority_queue<tuple<int, int, int>, vector<tuple<int, int, int>>, 
+                                            greater<tuple<int, int, int>>> pq; 
         pq.push({grid[0][0], 0, 0});  
         vis[0][0] = 1; 
         for (auto it : v) {
@@ -20,7 +21,7 @@ public:
                 if (value >= val) break;
                 pq.pop();
                 count++; 
-                
+
                 if (i - 1 >= 0 && !vis[i - 1][j]) {
                     pq.push({grid[i - 1][j], i - 1, j});
                     vis[i - 1][j] = 1;
