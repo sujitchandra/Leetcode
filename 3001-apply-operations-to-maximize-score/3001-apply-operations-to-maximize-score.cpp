@@ -1,4 +1,5 @@
 // didn't understand anything...go and kill yourself \U0001f62d\U0001f62d
+// NEED TO WATCH THE SOLUTION..
 class Solution {
 private:
     int countDistinctPrimeFactors(int n) {
