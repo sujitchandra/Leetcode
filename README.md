@@ -58,6 +58,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sujitchandra/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sujitchandra/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sujitchandra/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/sujitchandra/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/sujitchandra/Leetcode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sujitchandra/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sujitchandra/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -204,6 +205,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/sujitchandra/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/sujitchandra/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sujitchandra/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/sujitchandra/Leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -269,6 +271,7 @@
 | [0678-valid-parenthesis-string](https://github.com/sujitchandra/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/sujitchandra/Leetcode/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/sujitchandra/Leetcode/tree/master/0890-lemonade-change) |
+| [2681-put-marbles-in-bags](https://github.com/sujitchandra/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sujitchandra/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Matrix
 |  |
@@ -324,6 +327,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/sujitchandra/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sujitchandra/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sujitchandra/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/sujitchandra/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sujitchandra/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sujitchandra/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/sujitchandra/Leetcode/tree/master/3430-count-days-without-meetings) |
