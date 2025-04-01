@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minCostConnectPoints(vector<vector<int>>& points) {
+        //using prim's algorithm..
         int V = points.size();
         vector<vector<pair<int, int>>> adj(V);
 
