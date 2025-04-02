@@ -31,6 +31,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sujitchandra/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/sujitchandra/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/sujitchandra/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [0978-valid-mountain-array](https://github.com/sujitchandra/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sujitchandra/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/sujitchandra/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujitchandra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
