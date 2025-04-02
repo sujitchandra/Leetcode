@@ -5,10 +5,10 @@ public:
         long maxi = 0;
         long taxi = 0;
         long sexi = 0;
-        for(int num : nums){
-            maxi = max(maxi, (long)taxi * num);
-            taxi = max(taxi, (long)sexi - num);
-            sexi = max(sexi, (long)num);
+        for(long num : nums){
+            maxi = max(maxi, taxi * num);
+            taxi = max(taxi, sexi - num); // highest difference
+            sexi = max(sexi, num); // maximum number 
         }
 
         if(maxi < 0) return 0;
