@@ -6,7 +6,7 @@ public:
         long taxi = 0;
         long sexi = 0;
         for(long num : nums){
-            maxi = max(maxi, taxi * num);
+            maxi = max(maxi, taxi * num); // max value of triplet
             taxi = max(taxi, sexi - num); // highest difference
             sexi = max(sexi, num); // maximum number 
         }
