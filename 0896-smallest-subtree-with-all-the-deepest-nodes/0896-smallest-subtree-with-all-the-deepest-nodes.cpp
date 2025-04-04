@@ -11,51 +11,21 @@
  */
 class Solution {
 public:
-    TreeNode* subtreeWithAllDeepest(TreeNode* root) {
-        if (!root) return nullptr;
+    pair<int, TreeNode*> helper(TreeNode* node) {
+        if (!node) return {0, nullptr};
 
-        queue<TreeNode*> q;
-        unordered_map<TreeNode*, TreeNode*> parent;
-        q.push(root);
-        vector<TreeNode*> deepest;
+        auto left = helper(node->left);
+        auto right = helper(node->right);
 
-        // Level-order traversal to find deepest nodes
-        while (!q.empty()) {
-            int size = q.size();
-            deepest.clear(); // clear for the current level
-            for (int i = 0; i < size; ++i) {
-                TreeNode* node = q.front(); q.pop();
-                deepest.push_back(node);
-                if (node->left) {
-                    q.push(node->left);
-                    parent[node->left] = node;
-                }
-                if (node->right) {
-                    q.push(node->right);
-                    parent[node->right] = node;
-                }
-            }
-        }
-
-        // If only one deepest node, return it
-        if (deepest.size() == 1) return deepest[0];
-
-        // Find LCA of all deepest nodes using pairwise reduction
-        TreeNode* lca = deepest[0];
-        for (int i = 1; i < deepest.size(); ++i) {
-            lca = findLCA(root, lca, deepest[i]);
-        }
-
-        return lca;
+        if (left.first == right.first)
+            return {left.first + 1, node};
+        else if (left.first > right.first)
+            return {left.first + 1, left.second};
+        else
+            return {right.first + 1, right.second};
     }
 
-private:
-    // Standard LCA finder in binary tree (not BST)
-    TreeNode* findLCA(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if (!root || root == p || root == q) return root;
-        TreeNode* left = findLCA(root->left, p, q);
-        TreeNode* right = findLCA(root->right, p, q);
-        if (left && right) return root;
-        return left ? left : right;
+    TreeNode* subtreeWithAllDeepest(TreeNode* root) {
+        return helper(root).second;
     }
 };
