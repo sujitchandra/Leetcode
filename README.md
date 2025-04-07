@@ -20,6 +20,7 @@
 | [0239-sliding-window-maximum](https://github.com/sujitchandra/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/sujitchandra/Leetcode/tree/master/0260-single-number-iii) |
 | [0368-largest-divisible-subset](https://github.com/sujitchandra/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/sujitchandra/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sujitchandra/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sujitchandra/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sujitchandra/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -175,6 +176,7 @@
 | [0085-maximal-rectangle](https://github.com/sujitchandra/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sujitchandra/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0368-largest-divisible-subset](https://github.com/sujitchandra/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/sujitchandra/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sujitchandra/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/sujitchandra/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/sujitchandra/Leetcode/tree/master/0678-valid-parenthesis-string) |
