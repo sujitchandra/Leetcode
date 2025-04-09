@@ -7,9 +7,9 @@ public:
             if(num < k){
                 return -1;
             }
-            mp[num]++;
+           else if(num > k) mp[num]++;
         }
-        mp[k]++;
-        return mp.size()-1;
+        // mp[k]++;
+        return mp.size();
     }
 };
