@@ -1,59 +1,68 @@
-#define ll long long
+// copy-paste...
 class Solution {
-    ll vectorToNumber(const vector<int>& nums) {
-        ll res = 0;
-        for (int dig : nums) res = res * 10 + dig;
-        return res;
-    }
-
-    ll fact(int total, ll f = 1) {
-        for (int i = 2; i <= total; i++) f *= i;
-        return f;
-    }
-
-    ll totalPermutations(map<int, int>& mpp, int total) {
-        ll totalDig = fact(total);
-        for (auto& palinVal : mpp) totalDig /= fact(palinVal.second);
-        return totalDig;
-    }
-
-    ll permsWithZero(map<int, int> mpp, int total) {
-        return mpp[0] == 0 ? 0 : ([&]() {
-            mpp[0]--;
-            ll tot = fact(total - 1);
-            for (auto& palinVal : mpp)
-                tot /= fact(palinVal.second);
-            return tot;
-        }());
-    }
-
 public:
-    ll res = 0;
-    set<map<int, int>> visited;
+    // \U0001f522 Chakra Resource Counter (Factorial)
+    long long factorial(int num) {
+        long long chakra = 1;
+        for (int i = 1; i <= num; i++) chakra *= i;
+        return chakra;
+    }
 
-    void genPal(vector<int>& palin, int left, int right, int divisor, int total) {
-        if (left > right) {
-            ll palinVal = vectorToNumber(palin);
-            if (palinVal % divisor == 0) {
-                map<int, int> digMpp;
-                for (ll result = palinVal; result; result /= 10)
-                    digMpp[result % 10]++;
-                if (!visited.count(digMpp)) {
-                    res += totalPermutations(digMpp, total) - permsWithZero(digMpp, total);
-                    visited.insert(digMpp);
-                }
-            }
+    // \U0001f300 Shadow Clone Builder
+    void generatePalindromes(string& clone, int index, vector<string>& validClones, int k) {
+        if (index >= (clone.length() + 1) / 2) {
+            if (stoll(clone) % k == 0) validClones.push_back(clone);
             return;
         }
-        for (int dig = (left == 0 ? 1 : 0); dig <= 9; dig++) {
-            palin[left] = palin[right] = dig;
-            genPal(palin, left + 1, right - 1, divisor, total);
+
+        if (index != 0) {
+            clone[index] = '0';
+            clone[clone.size() - 1 - index] = '0';
+            generatePalindromes(clone, index + 1, validClones, k);
+        }
+
+        for (char c = '1'; c <= '9'; c++) {
+            clone[index] = c;
+            clone[clone.size() - 1 - index] = c;
+            generatePalindromes(clone, index + 1, validClones, k);
         }
     }
 
-    ll countGoodIntegers(int total, int divisor) {
-        vector<int> palin(total);
-        genPal(palin, 0, total - 1, divisor, total);
-        return res;
+    // \U0001f4a5 Hidden Leaf’s Main Function
+    long long countGoodIntegers(int n, int k) {
+        vector<string> validClones;
+        string baseClone(n, '0');
+        generatePalindromes(baseClone, 0, validClones, k);
+
+        set<string> chakraPatterns;
+
+        // \U0001f9e0 Unique Frequency Fingerprint for each Clone
+        for (auto& clone : validClones) {
+            vector<int> freq(10, 0);
+            for (char c : clone) freq[c - '0']++;
+            string pattern;
+            for (int f : freq) pattern += (char)('a' + f);
+            chakraPatterns.insert(pattern);
+        }
+
+        long long basePerms = factorial(n);
+        long long total = 0;
+
+        for (auto& pattern : chakraPatterns) {
+            long long perms = basePerms;
+            for (char f : pattern) perms /= factorial(f - 'a');
+
+            if (pattern[0] != 'a') {
+                int zeros = pattern[0] - 'a' - 1;
+                long long zeroPerms = factorial(n - 1);
+                for (int j = 1; j < pattern.size(); j++) zeroPerms /= factorial(pattern[j] - 'a');
+                zeroPerms /= factorial(zeros);
+                perms -= zeroPerms;
+            }
+
+            total += perms;
+        }
+
+        return total;
     }
 };
