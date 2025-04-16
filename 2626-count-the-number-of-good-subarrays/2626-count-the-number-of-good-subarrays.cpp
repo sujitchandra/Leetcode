@@ -1,22 +1,21 @@
 class Solution {
 public:
     long long countGood(vector<int>& nums, int k) {
-        unordered_map<int, int> freq;
+        unordered_map<int, int> m;
+        int n = nums.size();
+        int right = 0;
         int left = 0;
-        long long pairCount = 0, goodSubarrays = 0;
+        long long res = 0;
 
-        for (int right = 0; right < nums.size(); ++right) {
-            pairCount += freq[nums[right]];
-            freq[nums[right]]++;
+        while (right < n) {
+            k -= m[nums[right++]]++;
 
-            while (pairCount >= k) {
-                goodSubarrays += nums.size() - right;
-                freq[nums[left]]--;
-                pairCount -= freq[nums[left]];
-                left++;
-            }
+            while (k <= 0)
+                k += --m[nums[left++]];
+
+            res += left;
         }
 
-        return goodSubarrays;
+        return res;
     }
 };
