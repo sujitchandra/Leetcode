@@ -2,40 +2,32 @@
 class Solution {
 public:
     int maxTaskAssign(vector<int>& tasks, vector<int>& workers, int pills, int strength) {
-        int left = 0, right = min(tasks.size(), workers.size());
+        sort(begin(workers), end(workers));
+        sort(begin(tasks), end(tasks));
 
-        sort(tasks.begin(), tasks.end());
-        sort(workers.begin(), workers.end());
+        int lTasks = -1, rTasks = min(tasks.size(), workers.size()) - 1;
 
-        while(left < right) {
-            int mid = (left + right + 1) / 2;
-            int usedPills = 0;
-            multiset<int> workersFree(workers.end() - mid, workers.end());
+        while (lTasks < rTasks) {
+            int midTasks = (lTasks + rTasks + 1) >> 1, t = midTasks;
+            deque<int> dq;
 
-            bool canAssign = true;
-            for(int i = mid - 1; i >= 0; --i) {
-                auto it = prev(workersFree.end());
+            for (int w = workers.size() - 1, freePills = pills; t >= 0; t--) {
+                if (dq.size() > 0 && dq.front() >= tasks.at(t)) {
+                    dq.pop_front();
+                } else if (w >= 0 && workers.at(w) >= tasks.at(t)) {
+                    w--;
+                } else if (freePills > 0) {
+                    while (w >= 0 && workers.at(w) + strength >= tasks.at(t))
+                        dq.push_back(workers.at(w--));
 
-                if(*it < tasks[i]) {
-                    it = workersFree.lower_bound(tasks[i] - strength);
-                    if(it == workersFree.end()) {
-                        canAssign = false;
-                        break;
-                    }
-                    ++usedPills;
-                    if(usedPills > pills) {
-                        canAssign = false;
-                        break;
-                    }
-                }
-                workersFree.erase(it);
+                    if (dq.size() == 0) break;
+                    dq.pop_back(), freePills--;
+                } else break;
             }
 
-            if(canAssign)
-                left = mid;
-            else
-                right = mid - 1;
+            t == -1 ? lTasks = midTasks : rTasks = midTasks - 1;
         }
-        return left;
+
+        return lTasks + 1;
     }
 };
