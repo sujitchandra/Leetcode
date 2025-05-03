@@ -13,8 +13,8 @@ public:
                     break;
                 }
 
-                if(tops[i]!=val){Swap1++;}
-                if(bottoms[i]!=val){Swap2++;}
+                if(tops[i]!=val) Swap1++;
+                if(bottoms[i]!=val) Swap2++;
             }
 
             ans = min(ans, min(Swap1,Swap2));
