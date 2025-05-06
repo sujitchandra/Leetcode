@@ -56,6 +56,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sujitchandra/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/sujitchandra/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sujitchandra/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/sujitchandra/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/sujitchandra/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sujitchandra/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sujitchandra/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -294,6 +295,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/sujitchandra/Leetcode/tree/master/0735-asteroid-collision) |
+| [2048-build-array-from-permutation](https://github.com/sujitchandra/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sujitchandra/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/sujitchandra/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## String
