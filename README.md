@@ -225,6 +225,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/sujitchandra/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/sujitchandra/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/sujitchandra/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/sujitchandra/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Queue
 |  |
 | ------- |
@@ -325,6 +326,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/sujitchandra/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sujitchandra/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/sujitchandra/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3637-count-number-of-balanced-permutations](https://github.com/sujitchandra/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
 |  |
 | ------- |
@@ -657,6 +659,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/sujitchandra/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/sujitchandra/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/sujitchandra/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/sujitchandra/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Topological Sort
 |  |
 | ------- |
@@ -696,6 +699,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sujitchandra/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/sujitchandra/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/sujitchandra/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/sujitchandra/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
 | ------- |
