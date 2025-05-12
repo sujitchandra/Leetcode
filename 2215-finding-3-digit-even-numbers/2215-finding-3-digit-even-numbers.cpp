@@ -1,22 +1,33 @@
 class Solution {
 public:
-    vector<int> findEvenNumbers(vector<int>& digits) {        
-        int n = digits.size();
-        set<int> st;
-        for(int i=0; i<n; i++){
-            for(int j=0; j<n; j++){
-                for(int k=0; k<n; k++){
-                    if(i != j && j != k && i != k){
-                        int first = digits[i];
-                        int mid = digits[j];
-                        int last = digits[k];
-                        if( first == 0) continue;
-                        int num = first*100 + mid*10 +last;
-                        if(num %2 == 0 ) st.insert(num);
-                    }
+    vector<int> findEvenNumbers(vector<int>& digits) {
+        unordered_map<int, int> m;
+        vector<int> v;
+
+        for (int d : digits) {
+            m[d]++;
+        }
+
+        for (int i = 100; i < 1000; i++) {
+            if (i % 2 == 0) {
+                int unit = i % 10;
+                int ten = (i / 10) % 10;
+                int hund = i / 100;
+
+                m[unit]--;
+                m[ten]--;
+                m[hund]--;
+
+                if (m[unit] >= 0 && m[ten] >= 0 && m[hund] >= 0) {
+                    v.push_back(i);
                 }
+
+                m[unit]++;
+                m[ten]++;
+                m[hund]++;
             }
         }
-         return vector<int>(st.begin(), st.end());
+
+        return v;
     }
 };
