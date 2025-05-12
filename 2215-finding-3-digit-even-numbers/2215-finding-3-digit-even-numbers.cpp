@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> findEvenNumbers(vector<int>& digits) {
         unordered_map<int, int> m;
-        vector<int> v;
+        vector<int> ans;
 
         for (int d : digits) {
             m[d]++;
@@ -19,7 +19,7 @@ public:
                 m[hund]--;
 
                 if (m[unit] >= 0 && m[ten] >= 0 && m[hund] >= 0) {
-                    v.push_back(i);
+                    ans.push_back(i);
                 }
 
                 m[unit]++;
@@ -28,6 +28,6 @@ public:
             }
         }
 
-        return v;
+        return ans;
     }
 };
