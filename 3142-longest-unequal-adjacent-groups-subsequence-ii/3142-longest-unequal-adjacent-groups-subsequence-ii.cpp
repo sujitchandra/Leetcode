@@ -1,3 +1,4 @@
+//CP
 class Solution {
 public:
     static bool hamming1(const string& s, const string& t){
