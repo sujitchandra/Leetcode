@@ -10,6 +10,7 @@
 | [0045-jump-game-ii](https://github.com/sujitchandra/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sujitchandra/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/sujitchandra/Leetcode/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/sujitchandra/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sujitchandra/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sujitchandra/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sujitchandra/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sujitchandra/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/sujitchandra/Leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/sujitchandra/Leetcode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sujitchandra/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/sujitchandra/Leetcode/tree/master/0768-partition-labels) |
@@ -416,6 +418,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sujitchandra/Leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/sujitchandra/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/sujitchandra/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sujitchandra/Leetcode/tree/master/0455-assign-cookies) |
