@@ -10,6 +10,7 @@
 | [0045-jump-game-ii](https://github.com/sujitchandra/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sujitchandra/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/sujitchandra/Leetcode/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/sujitchandra/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sujitchandra/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sujitchandra/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sujitchandra/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -115,6 +116,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujitchandra/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/sujitchandra/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sujitchandra/Leetcode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/sujitchandra/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sujitchandra/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sujitchandra/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sujitchandra/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -367,6 +369,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/sujitchandra/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sujitchandra/Leetcode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/sujitchandra/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/sujitchandra/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/sujitchandra/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/sujitchandra/Leetcode/tree/master/0542-01-matrix) |
