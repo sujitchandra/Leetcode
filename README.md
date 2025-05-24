@@ -96,6 +96,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sujitchandra/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/sujitchandra/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/sujitchandra/Leetcode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
+| [3194-find-words-containing-character](https://github.com/sujitchandra/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sujitchandra/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/sujitchandra/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sujitchandra/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -344,6 +345,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sujitchandra/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/sujitchandra/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sujitchandra/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3194-find-words-containing-character](https://github.com/sujitchandra/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/sujitchandra/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sujitchandra/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/sujitchandra/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
