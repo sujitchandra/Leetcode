@@ -153,6 +153,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sujitchandra/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sujitchandra/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sujitchandra/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sujitchandra/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/sujitchandra/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sujitchandra/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sujitchandra/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -186,6 +187,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/sujitchandra/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujitchandra/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/sujitchandra/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sujitchandra/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sujitchandra/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
@@ -350,6 +352,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sujitchandra/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sujitchandra/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/sujitchandra/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sujitchandra/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sujitchandra/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/sujitchandra/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/sujitchandra/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -374,6 +377,7 @@
 | [0890-lemonade-change](https://github.com/sujitchandra/Leetcode/tree/master/0890-lemonade-change) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sujitchandra/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sujitchandra/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sujitchandra/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/sujitchandra/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sujitchandra/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sujitchandra/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
