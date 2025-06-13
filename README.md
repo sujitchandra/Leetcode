@@ -88,6 +88,7 @@
 | [2690-house-robber-iv](https://github.com/sujitchandra/Leetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sujitchandra/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sujitchandra/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sujitchandra/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sujitchandra/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sujitchandra/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/sujitchandra/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
@@ -388,6 +389,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sujitchandra/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sujitchandra/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/sujitchandra/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sujitchandra/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sujitchandra/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sujitchandra/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sujitchandra/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -427,6 +429,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/sujitchandra/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/sujitchandra/Leetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sujitchandra/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sujitchandra/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/sujitchandra/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
