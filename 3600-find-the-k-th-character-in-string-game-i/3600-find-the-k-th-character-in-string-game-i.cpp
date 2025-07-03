@@ -2,15 +2,16 @@
 //cp
 class Solution {
 public:
-    char kthCharacter(int k) {
-        std::string sb = "a";
-        while (sb.length() < k) {
-            int size = sb.length();
-            for (int i = 0; i < size; ++i) {
-                char nextChar = 'a' + ((sb[i] - 'a' + 1) % 26);
-                sb += nextChar;
-            }
+    int count_ones(int n) {
+        int result = 0;
+        while (n) {
+            n &= n - 1;
+            ++result;
         }
-        return sb[k - 1];
+        return result;
+    }
+
+    char kthCharacter(int k) {
+        return 'a' + count_ones(k - 1);
     }
 };
