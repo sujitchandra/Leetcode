@@ -1,23 +1,29 @@
 //cp
 class Solution {
 public:
-    int maxFreeTime(int eventTime, int k, vector<int>& startTime, vector<int>& endTime) {
-        int count = startTime.size();
-        vector<int> prefixSum(count + 1, 0);
-        int maxFree = 0;
+    int maxFreeTime(int eventTime, int k, vector<int>& startTime,
+                    vector<int>& endTime) {
+        int n = startTime.size();
+        int ans = 0, curr = 0;
 
-        for (int i = 0; i < count; ++i) {
-            prefixSum[i + 1] = prefixSum[i] + (endTime[i] - startTime[i]);
+        for (int i = 0; i <= n; ++i) {
+            if (i == 0)
+                curr += startTime[0];
+            else if (i == n)
+                curr += (eventTime - endTime[n - 1]);
+            else
+                curr += (startTime[i] - endTime[i - 1]);
+            if (i >= k + 1) {
+                if (i - (k + 1) == 0)
+                    curr -= startTime[0];
+                else if (i - (k + 1) == n)
+                    curr -= (eventTime - endTime[n - 1]);
+                else
+                    curr -= (startTime[i - (k + 1)] - endTime[i - (k + 1) - 1]);
+            }
+
+            ans = max(ans, curr);
         }
-
-        for (int i = k - 1; i < count; ++i) {
-            int occupied = prefixSum[i + 1] - prefixSum[i - k + 1];
-            int windowEnd = (i == count - 1) ? eventTime : startTime[i + 1];
-            int windowStart = (i == k - 1) ? 0 : endTime[i - k];
-            int freeTime = windowEnd - windowStart - occupied;
-            maxFree = max(maxFree, freeTime);
-        }
-
-        return maxFree;
+        return ans;
     }
 };
