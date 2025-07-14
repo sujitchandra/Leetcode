@@ -343,6 +343,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sujitchandra/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/sujitchandra/Leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/sujitchandra/Leetcode/tree/master/0460-lfu-cache) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sujitchandra/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
@@ -792,6 +793,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/sujitchandra/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/sujitchandra/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sujitchandra/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sujitchandra/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/sujitchandra/Leetcode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sujitchandra/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
