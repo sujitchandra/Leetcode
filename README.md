@@ -399,6 +399,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sujitchandra/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/sujitchandra/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/sujitchandra/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3396-valid-word](https://github.com/sujitchandra/Leetcode/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sujitchandra/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sujitchandra/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/sujitchandra/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
