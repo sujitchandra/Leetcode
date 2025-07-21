@@ -394,6 +394,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sujitchandra/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sujitchandra/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1250-longest-common-subsequence](https://github.com/sujitchandra/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/sujitchandra/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sujitchandra/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sujitchandra/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sujitchandra/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
