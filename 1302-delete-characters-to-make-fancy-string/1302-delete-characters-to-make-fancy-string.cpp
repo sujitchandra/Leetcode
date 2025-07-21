@@ -6,15 +6,15 @@ public:
         string ans;
         char last = s[0];
         ans.push_back(last);
-        int count = 1;
+        int cnt = 1;
         for (int i=1; i<n; i++) {
             if (s[i] == last) {
-                count++;
-                if (count < 3)
+                cnt++;
+                if (cnt < 3)
                     ans.push_back(s[i]);
             } else {
                 last = s[i];
-                count = 1;
+                cnt = 1;
                 ans.push_back(s[i]);
             }
         }
