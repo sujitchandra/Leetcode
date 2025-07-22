@@ -62,6 +62,7 @@
 | [1706-min-cost-to-connect-all-points](https://github.com/sujitchandra/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sujitchandra/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/sujitchandra/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1813-maximum-erasure-value](https://github.com/sujitchandra/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sujitchandra/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sujitchandra/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sujitchandra/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -169,6 +170,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/sujitchandra/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sujitchandra/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sujitchandra/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1813-maximum-erasure-value](https://github.com/sujitchandra/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sujitchandra/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sujitchandra/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/sujitchandra/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -313,6 +315,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sujitchandra/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujitchandra/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sujitchandra/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1813-maximum-erasure-value](https://github.com/sujitchandra/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sujitchandra/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sujitchandra/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/sujitchandra/Leetcode/tree/master/2478-longest-nice-subarray) |
