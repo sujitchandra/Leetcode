@@ -216,6 +216,7 @@
 | [0735-asteroid-collision](https://github.com/sujitchandra/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/sujitchandra/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujitchandra/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sujitchandra/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/sujitchandra/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sujitchandra/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sujitchandra/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -402,6 +403,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sujitchandra/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sujitchandra/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sujitchandra/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sujitchandra/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sujitchandra/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/sujitchandra/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sujitchandra/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -444,6 +446,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sujitchandra/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sujitchandra/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sujitchandra/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sujitchandra/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sujitchandra/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sujitchandra/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sujitchandra/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
