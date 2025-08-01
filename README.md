@@ -16,6 +16,7 @@
 | [0085-maximal-rectangle](https://github.com/sujitchandra/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sujitchandra/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sujitchandra/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/sujitchandra/Leetcode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/sujitchandra/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/sujitchandra/Leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/sujitchandra/Leetcode/tree/master/0137-single-number-ii) |
@@ -270,6 +271,7 @@
 | [0045-jump-game-ii](https://github.com/sujitchandra/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sujitchandra/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/sujitchandra/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/sujitchandra/Leetcode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sujitchandra/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0368-largest-divisible-subset](https://github.com/sujitchandra/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sujitchandra/Leetcode/tree/master/0416-partition-equal-subset-sum) |
