@@ -810,6 +810,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sujitchandra/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sujitchandra/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/sujitchandra/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sujitchandra/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sujitchandra/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sujitchandra/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sujitchandra/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -961,6 +962,7 @@
 | [2202-sum-of-k-mirror-numbers](https://github.com/sujitchandra/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sujitchandra/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sujitchandra/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sujitchandra/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/sujitchandra/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/sujitchandra/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sujitchandra/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -1031,6 +1033,7 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sujitchandra/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sujitchandra/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Probability and Statistics
 |  |
 | ------- |
